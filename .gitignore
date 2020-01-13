@@ -1,4 +1,4 @@
 /images/
-/_pycache_/
+/__pycache__/
 /Model_MLP/
 /Model_LSTM/
